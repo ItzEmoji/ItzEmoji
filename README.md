@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cyril Dettling</h1>
-<h3 align="center">I'm a student, that is in the 2nd Oberstufe</h3>
+<h3 align="center">I'm a student, that is in the 3rd Oberstufe</h3>
 
 - 🔭 I’m currently working on **My Homelab**
 
